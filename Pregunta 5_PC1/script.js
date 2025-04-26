@@ -70,7 +70,7 @@ function actualizar() {
       jugador1.puntos = 0;
       jugador2.puntos = 0;
     } else {
-      alert("Felicitaciones, Tu Nombre y Apellido");
+      alert("Felicitaciones, Cristian Choque");
       juegoActivo = false;
       sonidoFondo.pause();
     }
